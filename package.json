@@ -1,0 +1,7 @@
+{
+  "name": "@projectupskill/common",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git://github.com/ProjectUpskill/common.git"
+}
