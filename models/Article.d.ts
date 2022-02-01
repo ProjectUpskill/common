@@ -2,8 +2,8 @@ import { Contributor } from "./Contributor";
 import { Version } from "./Version";
 
 export enum ArticleType {
-  Article = "ARTICLE",
-  Page = "PAGE",
+  Article = "article",
+  Page = "page",
 }
 
 export interface Article {
